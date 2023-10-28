@@ -1,7 +1,6 @@
 # CCO (Collective Communication Optimizations) Side Meeting in IETF 118
 
-## Time: 14:30-16:00 Thursday (Nov 09) , 90min, after the 1st afternoon session 
-
+## Time: 14:30-16:00 Thursday (Nov 09 2023) , after the 1st afternoon session 
 - UTC 13:30 - 15:00
 - CET (UTC+1) 14:30 - 16:00
 - CST (UTC+8) 21:30 - 23:00
@@ -10,14 +9,9 @@
 
 Information also available on side meeting wiki: https://wiki.ietf.org/meeting/118/sidemeetings
 
+## Location: Palmovka 1/2
 ## Remote Access: TBD
 - Meeting number: TBD
-
-## Purpose of the side meeting:
-TBD
-
-## Introduction
-TBD
 
 ## Agenda
 1.	Admin [8: 8/90] 
@@ -25,10 +19,18 @@ TBD
    - link TBD
 3.	TBD [20 : 48/90]
    - link TBD
-4.	Signaling In-Network Computing operations (SINC): Zhe Lou (Huawei Technologies) [20: 68/90]
+4.	Signaling In-Network Computing operations (SINC): David Lou (Huawei Technologies) [20: 68/90]
    - link TBD
 5.	TBD [17: 85/90]
    - link TBD
 6.	Wrap up [5 : 90/90]
 
+
+## Introduction
+Collective communication plays a key role in high performance computing and the modern distributed AI training workloads such as recommender systems and natural language processing.
+It involves a group or groups of processes participating in collective operations like AllReduce or Scatter. The communication model can be one-to-all, all-to-one or all-to-all and is usually realized by a sequence of unicast messages. Communication and computation is coordinated among a group of processes. 
+
+In-network computing, in recent years, has been being discussed to improve the overall performance in terms of the bandwidth consumed and/or latency when collective communications are used. Designing the network assissted collective communication primitives to execute one or some key steps in the process and/or to provide the more efficient group communication model are drawing some special attentions as the ways for collective communication optimizations (CCO). They also impose some challenges and requirements for both the network transport and forwading, and co-design of protocols and distributed learning frameworks.
+
+Therefore, we are organizing a side meeting CCO in IETF 118. The primary goals are to introduce and discuss the challenges, requirements and new technologies to optimize collective communication with in-network computing in use, and to explore the standardization opportunities in IETF. You participation is welcome. We hope to foster the open discussions to stimulate the innovative engineering work in this area. No conclusion is expected to be made at the end of the side meeting. 
 
