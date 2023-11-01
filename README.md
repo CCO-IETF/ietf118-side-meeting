@@ -7,7 +7,7 @@
   - PST (UTC-8) 05:30 - 07:00
   - EST (UTC-5) 08:30 - 10:00
 
-Information also available on side meeting wiki: https://wiki.ietf.org/meeting/118/sidemeetings
+Information also available on side meeting wiki: https://wiki.ietf.org/meeting/118/sidemeetings#meeting-thursday
 
 ## Location: Palmovka 1/2
 ## Remote Access:  https://ietf.webex.com/meet/ietfsidemeeting2 
