@@ -16,12 +16,12 @@ Information also available on side meeting wiki: https://wiki.ietf.org/meeting/1
 Organizers: Kehan Yao (yaokehan@chinamobile.com), Yizhou Li (liyizhou@huawei.com) 
 
 ## Agenda
-1.	Admin [5: 5/90] 
-2.	Use cases, problem statement and requirements: kehan Yao (China Mobile) [20: 25/90] 
-3.	In Network Compute: Surendra Anubolu (Broadcom) [20 : 45/90]
-4.	Signaling In-Network Computing operations (SINC): David Lou (Huawei) [20: 65/90]
-5.	Alex Margolin [20: 85/90]
-6.	Open Discussions [5 : 90/90]
+1.	Admin 
+2.	Use cases, problem statement and requirements: kehan Yao (China Mobile) 
+3.	In Network Compute: Surendra Anubolu (Broadcom) 
+4.	Signaling In-Network Computing operations (SINC): David Lou (Huawei) 
+5.	Challenges in hardware offloading of collective operations: Alex Margolin (Hebrew University of Jerusalem) 
+6.	Open Discussions
 
 ## Introduction
 Collective communication plays a key role in high performance computing and the modern distributed AI training workloads such as recommender systems and natural language processing.
