@@ -1,35 +1,27 @@
 # CCO (Collective Communication Optimizations) Side Meeting in IETF 118
 
-## Time: 14:30-16:00 Thursday (Nov 09 2023) , after the 1st afternoon session 
+**Time: 14:30-16:00 Thursday (Nov 9, 2023), Prague (CET)**, after the 1st afternoon session 
   - UTC 13:30 - 15:00
   - CET (UTC+1) 14:30 - 16:00
   - CST (UTC+8) 21:30 - 23:00
   - PST (UTC-8) 05:30 - 07:00
   - EST (UTC-5) 08:30 - 10:00
 
+**Location: Palmovka 1/2**
+
+**Remote Access Link:  https://ietf.webex.com/meet/ietfsidemeeting2**
+
 Information also available on side meeting wiki: https://wiki.ietf.org/meeting/118/sidemeetings#meeting-thursday
 
-## Location: Palmovka 1/2
-## Remote Access:  https://ietf.webex.com/meet/ietfsidemeeting2 
+Organizers: Kehan Yao (yaokehan@chinamobile.com), Yizhou Li (liyizhou@huawei.com) 
 
 ## Agenda
-1.	Admin [8: 8/90] 
-2.	Problem statement, use cases and requirements: kehan Yao (China Mobile) [20: 28/90] 
-     - slides:
-     - drafts:
-       - [draft-yao-tsvwg-cco-problem-statement-and-usecases](https://datatracker.ietf.org/doc/draft-yao-tsvwg-cco-problem-statement-and-usecases/)
-       - [draft-yao-tsvwg-cco-requirement-and-analysis](https://datatracker.ietf.org/doc/draft-yao-tsvwg-cco-requirement-and-analysis/)
-3.	TBD [20 : 48/90]
-     - slides: TBD
-4.	Signaling In-Network Computing operations (SINC): David Lou (Huawei Technologies) [20: 68/90]
-     - slides:
-     - drafts:
-       - [draft-lou-rtgwg-sinc](https://datatracker.ietf.org/doc/draft-lou-rtgwg-sinc/)
-       - [draft-lou-rtgwg-sinc-deployment-considerations](https://datatracker.ietf.org/doc/draft-lou-rtgwg-sinc-deployment-considerations/)
-5.	TBD [17: 85/90]
-     - slides: TBD
-6.	Wrap up [5 : 90/90]
-
+1.	Admin [5: 5/90] 
+2.	Use cases, problem statement and requirements: kehan Yao (China Mobile) [20: 25/90] 
+3.	In Network Compute: Surendra Anubolu (Broadcom) [20 : 45/90]
+4.	Signaling In-Network Computing operations (SINC): David Lou (Huawei) [20: 65/90]
+5.	Alex Margolin [20: 85/90]
+6.	Open Discussions [5 : 90/90]
 
 ## Introduction
 Collective communication plays a key role in high performance computing and the modern distributed AI training workloads such as recommender systems and natural language processing.
