@@ -1,6 +1,6 @@
 # CCO (Collective Communication Optimizations) Side Meeting in IETF 118
 
-**Time: 14:30-16:00 Thursday (Nov 9, 2023), Prague (CET)**, after the 1st afternoon session 
+**Time: 14:30-16:00 Thursday (Nov 9, 2023), Prague (CET)**, 16:00-16:30 as buffer time 
   - UTC 13:30 - 15:00
   - CET (UTC+1) 14:30 - 16:00
   - CST (UTC+8) 21:30 - 23:00
@@ -17,10 +17,10 @@ Organizers: Kehan Yao (yaokehan@chinamobile.com), Yizhou Li (liyizhou@huawei.com
 
 ## Agenda
 1.	Admin 
-2.	Use cases, problem statement and requirements: kehan Yao (China Mobile) 
-3.	In Network Compute: Surendra Anubolu (Broadcom) 
-4.	Signaling In-Network Computing operations (SINC): David Lou (Huawei) 
-5.	Challenges in hardware offloading of collective operations: Alex Margolin (Hebrew University of Jerusalem) 
+2.	Use cases, problem space and requirements: kehan Yao (China Mobile) 
+3.	Challenges in hardware offloading of collective operations: Alex Margolin (Hebrew University of Jerusalem)
+4.	In Network Compute: Surendra Anubolu (Broadcom) 
+5.	Signaling In-Network Computing operations (SINC): David Lou (Huawei) 
 6.	Open Discussions
 
 ## Introduction
