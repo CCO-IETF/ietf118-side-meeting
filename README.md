@@ -19,8 +19,8 @@ Organizers: Kehan Yao (yaokehan@chinamobile.com), Yizhou Li (liyizhou@huawei.com
 1.	Admin 
 2.	Use cases, problem space and requirements: kehan Yao (China Mobile) 
 3.	Challenges in hardware offloading of collective operations: Alex Margolin (Hebrew University of Jerusalem)
-4.	In Network Compute: Surendra Anubolu (Broadcom) 
-5.	Signaling In-Network Computing operations (SINC): David Lou (Huawei) 
+4.	Signaling In-Network Computing operations (SINC): David Lou (Huawei) 
+5.	In Network Compute: Surendra Anubolu (Broadcom) 
 6.	Open Discussions
 
 ## Introduction
