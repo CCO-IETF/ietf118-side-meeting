@@ -1,6 +1,6 @@
 # CCO (Collective Communication Optimizations) Side Meeting in IETF 118
 
-**Time: 14:30-16:00 Thursday (Nov 9, 2023), Prague (CET)**, 16:00-16:30 as buffer time 
+**Time: 14:30-16:00 Thursday (Nov 9, 2023), Prague (CET)**
   - UTC 13:30 - 15:00
   - CET (UTC+1) 14:30 - 16:00
   - CST (UTC+8) 21:30 - 23:00
